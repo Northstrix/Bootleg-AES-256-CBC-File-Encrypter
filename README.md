@@ -1,17 +1,13 @@
-# glui
-A simple menu library for OpenGL apps.
+# Bootleg AES-256 CBC File Encrypter
 
-## Why glui?
+A simple file encrypter written in C/C++. Tested sucessfully with 0.5 GB file. Despite having well-functioning cryptographic features, it may not be reliable.
+This application is provided with no warranty or guarantees of any kind. Use it at your own risk!
 
-Because it is very easy to use to prototype things. The library is header only! Just a few lines of code will get you a fully responsive and working menu!
+SourceForge page: https://sourceforge.net/projects/aes256-cbc-file-encrypter/
 
-## This uses my [2D library](https://github.com/meemknight/gl2d), check it out!
-(but you can add that easily or make your own backed 👀)
 
-## This little code:
+![image text](https://github.com/Northstrix/Bootleg-AES-256-CBC-File-Encrypter/blob/master/media/Main.gif)
 
-![](https://github.com/meemknight/photos/blob/master/glui1.jpg)
+![image text](https://github.com/Northstrix/Bootleg-AES-256-CBC-File-Encrypter/blob/master/media/Encryption%20Process.png)
 
-## Results to this!
-
-![](https://github.com/meemknight/photos/blob/master/glui2.gif)
+![image text](https://github.com/Northstrix/Bootleg-AES-256-CBC-File-Encrypter/blob/master/media/Errors.png)
