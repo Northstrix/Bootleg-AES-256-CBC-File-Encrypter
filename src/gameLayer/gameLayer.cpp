@@ -35,8 +35,9 @@ glui::RendererUi ui;
 bool initGame()
 {
 	renderer.create();
-	font.createFromFile(RESOURCES_PATH "roboto_black.ttf");
+	//font.createFromFile(RESOURCES_PATH "roboto_black.ttf");
 	//font.createFromFile(RESOURCES_PATH "font/ANDYB.TTF");
+	font.createFromFile("C:\\Windows\\Fonts\\segoeui.ttf"); // Load the Windows font
 
 	return true;
 }
